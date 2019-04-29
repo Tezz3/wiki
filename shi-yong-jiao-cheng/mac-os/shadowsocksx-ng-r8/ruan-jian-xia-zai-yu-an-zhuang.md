@@ -2,7 +2,7 @@
 
 ## 软件下载
 
-点击以下链接开始下载，阁下也可以到GitHub自行下载。
+点击以下链接开始下载，阁下也可以到[GitHub](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)自行下载。
 
 {% file src="../../../.gitbook/assets/shadowsocksx-ng-r8.dmg" caption="ShadowsocksX-NG-R8" %}
 
